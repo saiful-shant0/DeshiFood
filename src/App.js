@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Navigation from './Home/Nevigation/Navigation';
 
 function App() {
   return (
-    <div className="App">
-     hsjdhsj
+    <div >
+      <Navigation></Navigation>
+
     </div>
   );
 }
